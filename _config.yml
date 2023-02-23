@@ -1,3 +1,6 @@
+# Site settings
+title: Eamon F.X. Byrne - Protein Engineer
+description: eamonbyrne.github.io
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
