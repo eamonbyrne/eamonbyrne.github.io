@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Eamon F.X. Byrne - Protein Engineer"
+  navbar:
+    background: primary
+  page-footer: 
+    left: "Copyright 2023, Eamon F.X. Byrne" 
+    right: "Website made with Quarto" 
+
+format:
+  html:
+    theme: 
+      - minty #yeti
+    css: styles.css
+    code-fold: true
+    fontsize: 13pt
+    link-external-newwindow: true
+
+jupyter: python3
+
+
+
+
+

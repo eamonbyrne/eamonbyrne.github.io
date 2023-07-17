@@ -1,0 +1,89 @@
+---
+title: "Eamon F.X. Byrne"
+subtitle: "Protein Engineer, Computational & Experimental"
+---
+
+**I am currently looking my next exciting career opportunity in protein engineering. Please get in touch via [LinkedIn](https://www.linkedin.com/in/efxbyrne/) if you think I could be a good fit!** 
+
+:::::::::{.column-screen-inset}
+
+
+::::::{.quarto-about-trestles}
+
+
+:::{.about-entity}
+
+![](EamonByrne_headshot_2021August_smallerfile.jpeg){width=80%}
+
+## Eamon F.X. Byrne, DPhil. (Oxon)
+
+Postdoc in Bioengineering, Stanford University
+
+DPhil. in Structural Biology, Oxford University
+
+BSc (Hons) in Biochemistry & Chemistry, Melbourne University
+
+BA in History & Chinese Language, Melbourne University
+
+
+## more of me.
+
+<a href="https://www.linkedin.com/in/efxbyrne/">
+<button type="button" class="btn btn-secondary">LinkedIn</button>
+</a>
+
+<a href="https://scholar.google.com/citations?user=E49YJmcAAAAJ&hl=en">
+<button type="button" class="btn btn-secondary">Google Scholar</button>
+</a>
+
+<a href="https://orcid.org/0000-0001-7513-5944">
+<button type="button" class="btn btn-secondary">ORCID</button>
+</a>
+
+<a href="https://www.ncbi.nlm.nih.gov/myncbi/1PAsJcvq9825y/bibliography/public/">
+<button type="button" class="btn btn-secondary">PubMed</button>
+</a>
+
+<a href="https://github.com/eamonbyrne">
+<button type="button" class="btn btn-secondary">GitHub</button>
+</a>
+
+:::
+
+
+:::{.about-contents}
+
+## what excites me.
+
+I am deeply excited by the idea of ***proteins as technology***; truly nanoscale, biocompatible, programmable and reproducible machines. I want to ***harness the power of proteins*** to generate new technologies, both for reducing human suffering and for reducing our impact on the environment. This is what drives me.
+
+I completed my PhD in structural biology in order to understand proteins at the most fundamental level. I completed my postdoc in protein engineering in order to learn how to make new, useful proteins.
+
+Along the way, I’ve built a lot of skills. Here is a short list of my technical skillsets:
+
+- **Computational**: Python (Jupyter, Pandas, etc.), AlphaFold2, Rosetta Suite (Match, EnzymeDesign, RoseTTAFold2NA, etc.), SciKitLearn, PyTorch, TensorFlow2/Keras, PyMOL, crystallographic software.
+
+- **Experimental**: protein expression, protein purification, construct/plasmid design, biochemical analyses, tissue culture, x-ray crystallography, membrane proteins (GPCRs, ion channels), nanobodies (including binding kinetics), small molecule studies, flow cytometry, patch-clamp electrophysiology.
+
+- **Managerial**: project management, inclusive mentoring, dialogue facilitation, oral & written communication skills.
+
+
+## where I've been.
+
+Between 2020-2023, I was Co-Chair of the SURPAS Long Range Planning Committee. This work culminated in the publication of the [SURPAS Long Range Planning Report 2023](https://surpasstanfordpostdocs.github.io/long-range-planning-report2023/).
+
+Between 2018-2023, I have been a postdoc in the [Deisseroth Lab](https://web.stanford.edu/group/dlab/) at Stanford University. I engineered novel properties into light-activated ion channel proteins, such as ChRmine ([Kishi … Byrne et al., Cell 2022](https://pubmed.ncbi.nlm.nih.gov/35114111/)) and KCR1 & 2 ([Tajima, … Byrne et al., bioRxiv 2022](https://www.biorxiv.org/content/10.1101/2022.10.30.514430v1)). These new tools will be used to deepen our understanding of neural circuitry in the mammalian brain.
+
+In 2019, I completed the [Stanford Ignite](https://www.gsb.stanford.edu/exec-ed/programs/stanford-ignite) entrepreneurship program at the Stanford Graduate School of Business and developed a venture pitch for machine-learning-enabled completion of electronic medical records.
+
+I received my DPhil. from the University of Oxford in 2018 with [Christian Siebold](https://www.ndm.ox.ac.uk/team/christian-siebold). I uncovered molecular mechanisms of Hedgehog signal transduction by solving several crystal structures of the G-protein coupled receptor (GPCR) Smoothened, complexed to different small molecules ([Byrne et al., Nature 2016](https://www.nature.com/articles/nature18934)). We discovered that cholesterol is a Smoothened agonist ([Luchetti… Byrne et al., eLife 2016](https://elifesciences.org/articles/20304)) and that multiple ligand binding sites regulate Smoothened ([Byrne et al., Curr Opin Cell Biol. 2018](https://www.sciencedirect.com/science/article/abs/pii/S0955067417301382)).
+
+As an undergrad, I worked with [Matthew Call](https://www.wehi.edu.au/people/matthew-call) and [Melissa Call](https://www.wehi.edu.au/people/melissa-call) at the Walter & Eliza Hall Institute for Medical Research (WEHI) in Melbourne, Australia, to reveal the transmembrane determinants of ligand recognition for the E3 ubiquitin ligase MARCH9 ([Tan, Byrne et al., J Biol Chem. 2019](https://pubmed.ncbi.nlm.nih.gov/30554144/)).
+
+I am committed to justice, equity, diversity and inclusion work. I am a co-facilitator of the [CCC&AOP program](https://icil.stanford.edu/icil-programs/certificate-critical-consciousness-and-anti-oppressive-praxis-cccaop) at Stanford. In my free time, I love going rock climbing. Ask me about it!
+
+:::
+
+::::::
+
+:::::::::
