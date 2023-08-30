@@ -76,7 +76,7 @@ Along the way, I’ve built a lot of skills. Here is a short list of my technica
 
 Between 2020-2023, I was Co-Chair of the SURPAS Long Range Planning Committee. This work culminated in the publication of the [SURPAS Long Range Planning Report 2023](https://surpasstanfordpostdocs.github.io/long-range-planning-report2023/).
 
-Between 2018-2023, I have been a postdoc in the [Deisseroth Lab](https://web.stanford.edu/group/dlab/) at Stanford University. I engineered novel properties into light-activated ion channel proteins, such as ChRmine ([Kishi … Byrne et al., Cell 2022](https://pubmed.ncbi.nlm.nih.gov/35114111/)) and KCR1 & 2 ([Tajima, … Byrne et al., bioRxiv 2022](https://www.biorxiv.org/content/10.1101/2022.10.30.514430v1)). These new tools will be used to deepen our understanding of neural circuitry in the mammalian brain.
+Between 2018-2023, I have been a postdoc in the [Deisseroth Lab](https://web.stanford.edu/group/dlab/) at Stanford University. I engineered novel properties into light-activated ion channel proteins, such as ChRmine ([Kishi … Byrne et al., Cell 2022](https://pubmed.ncbi.nlm.nih.gov/35114111/)) and KCR1 & 2 ([Tajima, … Byrne et al., Cell 2023](https://authors.elsevier.com/sd/article/S0092-8674(23)00863-2)). These new tools will be used to deepen our understanding of neural circuitry in the mammalian brain.
 
 In 2019, I completed the [Stanford Ignite](https://www.gsb.stanford.edu/exec-ed/programs/stanford-ignite) entrepreneurship program at the Stanford Graduate School of Business and developed a venture pitch for machine-learning-enabled completion of electronic medical records.
 
