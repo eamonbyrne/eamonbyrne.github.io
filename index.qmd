@@ -74,7 +74,7 @@ Along the way, I’ve built a lot of skills. Here is a short list of my technica
 
 ## where I've been.
 
-From late 2023, I have been a Senior Scientist at GigaMune, Inc., a biotech company developing *in vivo* cell therapies (e.g., CAR-T) for cancer and inherited blood disorders, with a focus on gene therapy via cell-type-specific lentiviral delivery. You can read about some of our recent impactful work showing 100% clearance of cancer in a mouse tumor model here ([Spindler, … Byrne et al., bioRxiv 2025](https://www.biorxiv.org/content/10.1101/2025.03.03.641199v1)).
+From late 2023, I have been a Senior Scientist at [GigaMune, Inc.](https://www.gigamune.com/), a biotech company developing *in vivo* cell therapies (e.g., CAR-T) for cancer and inherited blood disorders, with a focus on gene therapy via cell-type-specific lentiviral delivery. You can read about some of our recent impactful work showing 100% clearance of cancer in a mouse tumor model here ([Spindler, … Byrne et al., bioRxiv 2025](https://www.biorxiv.org/content/10.1101/2025.03.03.641199v1)).
 
 Between 2020-2023, I was Co-Chair of the SURPAS Long Range Planning Committee. This work culminated in the publication of the [SURPAS Long Range Planning Report 2023](https://surpasstanfordpostdocs.github.io/long-range-planning-report2023/).
 
