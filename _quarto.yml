@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Eamon F.X. Byrne - Protein Engineer"
+  title: "Eamon F.X. Byrne"
   navbar:
     background: primary
   page-footer: 

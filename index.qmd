@@ -1,6 +1,6 @@
 ---
 title: "Eamon F.X. Byrne"
-subtitle: "Protein Engineer, Computational & Experimental"
+subtitle: "Entrepreneur | Scientist | Cancer Therapeutics & Protein Engineering"
 ---
 
 <!-- **I am currently looking for my next exciting career opportunity in protein engineering. Please get in touch via [LinkedIn](https://www.linkedin.com/in/efxbyrne/) if you think I could be a good fit!** -->
@@ -59,34 +59,26 @@ BA in History & Chinese Language, Melbourne University
 
 ## what excites me.
 
-I am deeply excited by the idea of ***proteins as technology***; truly nanoscale, biocompatible, programmable and reproducible machines. I want to ***harness the power of proteins*** to generate new technologies, both for reducing human suffering and for reducing our impact on the environment. This is what drives me.
+I am driven by the potential of ***proteins as technology*** — nanoscale, programmable, biocompatible machines. I want to ***harness this power to build transformative companies*** that radically reduce human suffering and generate enormous value.
 
-I completed my PhD in structural biology in order to understand proteins at the most fundamental level. I completed my postdoc in protein engineering in order to learn how to make new, useful proteins.
-
-Along the way, I’ve built a lot of skills. Here is a short list of my technical skillsets:
-
-- **Computational**: Python (Jupyter, Pandas, etc.), AlphaFold2, Rosetta Suite (Match, EnzymeDesign, RoseTTAFold2NA, etc.), SciKitLearn, PyTorch, TensorFlow2/Keras, PyMOL, crystallographic software.
-
-- **Experimental**: protein expression, protein purification, construct/plasmid design, biochemical analyses, tissue culture, x-ray crystallography, membrane proteins (GPCRs, ion channels), nanobodies (including binding kinetics), small molecule studies, flow cytometry, patch-clamp electrophysiology.
-
-- **Managerial**: project management, inclusive mentoring, dialogue facilitation, oral & written communication skills.
+I completed my PhD in structural biology in order to understand proteins at the most fundamental level. I completed my postdoc in protein engineering in order to learn how to make new, useful proteins. Now, I apply that deep expertise in biotech startups to create powerful, real-world therapies.
 
 
 ## where I've been.
 
-From late 2023, I have been a Senior Scientist at [GigaMune, Inc.](https://www.gigamune.com/), a biotech company developing *in vivo* cell therapies (e.g., CAR-T) for cancer and inherited blood disorders, with a focus on gene therapy via cell-type-specific lentiviral delivery. You can read about some of our recent impactful work showing 100% clearance of cancer in a mouse tumor model here ([Spindler, … Byrne et al., bioRxiv 2025](https://www.biorxiv.org/content/10.1101/2025.03.03.641199v1)).
+From late 2023 to mid 2025, I was a Senior Scientist at [GigaMune, Inc.](https://www.gigamune.com/), a biotech company developing *in vivo* cell therapies (e.g., CAR-T) for cancer and inherited blood disorders, with a focus on gene therapy via cell-type-specific lentiviral delivery. Mice treated with our lead candidate showed 100% clearance of cancer ([Spindler, … Byrne et al., bioRxiv 2025](https://www.biorxiv.org/content/10.1101/2025.03.03.641199v1)).
 
 Between 2020-2023, I was Co-Chair of the SURPAS Long Range Planning Committee. This work culminated in the publication of the [SURPAS Long Range Planning Report 2023](https://surpasstanfordpostdocs.github.io/long-range-planning-report2023/).
 
-Between 2018-2023, I have been a postdoc in the [Deisseroth Lab](https://web.stanford.edu/group/dlab/) at Stanford University. I engineered novel properties into light-activated ion channel proteins, such as ChRmine ([Kishi, … Byrne et al., Cell 2022](https://pubmed.ncbi.nlm.nih.gov/35114111/)) and KCR1 & 2 ([Tajima, … Byrne et al., Cell 2023](https://authors.elsevier.com/sd/article/S0092-8674(23)00863-2)). These new tools will be used to deepen our understanding of neural circuitry in the mammalian brain.
+Between 2018-2023, I was a postdoc in the [Deisseroth Lab](https://web.stanford.edu/group/dlab/) at Stanford University. I engineered novel properties into light-activated ion channel proteins, such as ChRmine ([Kishi, … Byrne et al., Cell 2022](https://pubmed.ncbi.nlm.nih.gov/35114111/)) and KCR1 & 2 ([Tajima, … Byrne et al., Cell 2023](https://authors.elsevier.com/sd/article/S0092-8674(23)00863-2)). These new tools will be used to deepen our understanding of neural circuitry in the mammalian brain.
 
-In 2019, I completed the [Stanford Ignite](https://www.gsb.stanford.edu/exec-ed/programs/stanford-ignite) entrepreneurship program at the Stanford Graduate School of Business and developed a venture pitch for machine-learning-enabled completion of electronic medical records.
+In 2019, I completed the [Stanford Ignite](https://www.gsb.stanford.edu/exec-ed/programs/stanford-ignite) entrepreneurship program at the Stanford Graduate School of Business and developed a venture pitch for machine-learning-enabled scribing for electronic medical records.
 
 I received my DPhil. from the University of Oxford in 2018 with [Christian Siebold](https://www.ndm.ox.ac.uk/team/christian-siebold). I uncovered molecular mechanisms of Hedgehog signal transduction by solving several crystal structures of the G-protein coupled receptor (GPCR) Smoothened, complexed to different small molecules ([Byrne et al., Nature 2016](https://www.nature.com/articles/nature18934)). We discovered that cholesterol is a Smoothened agonist ([Luchetti, … Byrne et al., eLife 2016](https://elifesciences.org/articles/20304)) and that multiple ligand binding sites regulate Smoothened ([Byrne et al., Curr Opin Cell Biol. 2018](https://www.sciencedirect.com/science/article/abs/pii/S0955067417301382)).
 
 As an undergrad, I worked with [Matthew Call](https://www.wehi.edu.au/people/matthew-call) and [Melissa Call](https://www.wehi.edu.au/people/melissa-call) at the Walter & Eliza Hall Institute for Medical Research (WEHI) in Melbourne, Australia, to reveal the transmembrane determinants of ligand recognition for the E3 ubiquitin ligase MARCH9 ([Tan, Byrne et al., J Biol Chem. 2019](https://pubmed.ncbi.nlm.nih.gov/30554144/)).
 
-I am committed to justice, equity, diversity and inclusion work. I am a co-facilitator of the [CCC&AOP program](https://icil.stanford.edu/icil-programs/certificate-critical-consciousness-and-anti-oppressive-praxis-cccaop) at Stanford. In my free time, I love going rock climbing. Ask me about it!
+I am committed to justice, equity, diversity and inclusion work. I was a co-facilitator of the [CCC&AOP program](https://icil.stanford.edu/icil-programs/certificate-critical-consciousness-and-anti-oppressive-praxis-cccaop) at Stanford. In my free time, I love going rock climbing. Ask me about it!
 
 :::
 
