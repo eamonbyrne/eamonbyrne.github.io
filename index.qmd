@@ -13,7 +13,7 @@ subtitle: "Entrepreneur | Scientist | Cancer Therapeutics & Protein Engineering"
 
 :::{.about-entity}
 
-![](EamonByrne_headshot_2021August_smallerfile.jpeg){width=80%}
+![](EamonByrne_headshot_2025July_smallfile.jpeg){width=80%}
 
 ## Eamon F.X. Byrne, DPhil. (Oxon)
 
