@@ -70,9 +70,11 @@ From late 2023 to mid 2025, I was a Senior Scientist at [GigaMune, Inc.](https:/
 
 Between 2018-2023, I was a postdoc in the [Deisseroth Lab](https://web.stanford.edu/group/dlab/) at Stanford University. I engineered novel properties into light-activated ion channel proteins, such as ChRmine ([Kishi, … Byrne et al., Cell 2022](https://pubmed.ncbi.nlm.nih.gov/35114111/)) and KCR1 & 2 ([Tajima, … Byrne et al., Cell 2023](https://authors.elsevier.com/sd/article/S0092-8674(23)00863-2)). These new tools will be used to deepen our understanding of neural circuitry in the mammalian brain.
 
+In 2023, I completed the [Erdős Institute](https://www.erdosinstitute.org/) Data Science Boot Camp and with a small team used masked language model embeddings and high-dimensional multilabel classification (machine learning with neural networks) to predict functional labels for thousands of proteins, based upon a Gene Ontology dataset.
+
 Between 2020-2023, I was Co-Chair of the [SURPAS](https://surpas.stanford.edu/) Long Range Planning Committee. We consulted with more than one hundred stakeholders to identify critical unmet needs within the postdoc community at Stanford University. From this consultation process, we developed a strategic multi-year plan with key recommendations for promoting postdoc support and advancement. This work culminated in the publication of the [SURPAS Long Range Planning Report 2023](https://surpasstanfordpostdocs.github.io/long-range-planning-report2023/). To our knowledge, this was the first postdoc-led long-range strategic planning process to have been conducted at any US university.
 
-In 2019, I completed the [Stanford Ignite](https://www.gsb.stanford.edu/exec-ed/programs/stanford-ignite) entrepreneurship program at the Stanford Graduate School of Business and developed a venture pitch for machine-learning-enabled scribing for electronic medical records.
+In 2019, I completed the [Stanford Ignite](https://www.gsb.stanford.edu/exec-ed/programs/stanford-ignite) entrepreneurship program at the Stanford Graduate School of Business and with a small team developed a venture pitch for machine-learning-enabled scribing for electronic medical records.
 
 I received my DPhil. from the University of Oxford in 2018 with [Christian Siebold](https://www.ndm.ox.ac.uk/team/christian-siebold). I uncovered molecular mechanisms of Hedgehog signal transduction by solving several crystal structures of the G-protein coupled receptor (GPCR) Smoothened, complexed to different small molecules, including an anti-cancer drug ([Byrne et al., Nature 2016](https://www.nature.com/articles/nature18934)). We discovered that cholesterol is a Smoothened agonist ([Luchetti, … Byrne et al., eLife 2016](https://elifesciences.org/articles/20304)) and that multiple ligand binding sites regulate Smoothened ([Byrne et al., Curr Opin Cell Biol. 2018](https://www.sciencedirect.com/science/article/abs/pii/S0955067417301382)).
 
@@ -82,7 +84,7 @@ In 2012, as an undergrad, I worked with [Matthew Call](https://www.wehi.edu.au/p
 
 Between 2010-2013, I co-founded and was Managing Director of a non-profit organization called [Teachabout, Inc.](https://www.acnc.gov.au/charity/charities/441996a0-3aaf-e811-a961-000d3ad24182/profile) (now Titjimbat Gija) that ran educational school holiday programs for elementary-aged kids in remote, predominantly Aboriginal communities in the Northern Territory, Australia. These programs were free for the kids to attend and entirely voluntary.
 
-I am committed to justice, equity, diversity and inclusion work. I was a co-facilitator of the [CCC&AOP program](https://icil.stanford.edu/icil-programs/certificate-critical-consciousness-and-anti-oppressive-praxis-cccaop) at Stanford. In my free time, I love going rock climbing. Ask me about it!
+I am committed to justice, equity, diversity and inclusion work. Between 2021-2023, I was a Co-Facilitator of the [CCC&AOP program](https://icil.stanford.edu/icil-programs/certificate-critical-consciousness-and-anti-oppressive-praxis-cccaop) at Stanford. In my free time, I love going rock climbing. Ask me about it!
 
 :::
 
